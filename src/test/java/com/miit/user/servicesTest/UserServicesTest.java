@@ -18,6 +18,10 @@ import com.miit.user.entites.User;
 import com.miit.user.repo.UserRepository;
 import com.miit.user.services.UserServices;
 
+/**
+ * @author Miit tech
+ *
+ */
 @SpringBootTest
 public class UserServicesTest {
 
