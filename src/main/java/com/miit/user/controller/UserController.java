@@ -17,6 +17,10 @@ import org.springframework.web.client.RestTemplate;
 import com.miit.user.entites.User;
 import com.miit.user.services.UserServices;
 
+/**
+ * @author karan
+ *
+ */
 @RestController
 @RequestMapping("/user")
 public class UserController {
