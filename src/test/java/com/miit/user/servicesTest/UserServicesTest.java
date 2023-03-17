@@ -19,7 +19,7 @@ import com.miit.user.repo.UserRepository;
 import com.miit.user.services.UserServices;
 
 /**
- * @author Miit tech - 17th
+ * @author Karan && Keyur BHAI - 27
  *
  */
 @SpringBootTest
