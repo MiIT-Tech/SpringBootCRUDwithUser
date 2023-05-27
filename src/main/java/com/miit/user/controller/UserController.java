@@ -18,7 +18,7 @@ import com.miit.user.entites.User;
 import com.miit.user.services.UserServices;
 
 /**
- * @author Karan -miit
+ * @author Karan -miit tech
  *
  */
 @RestController
