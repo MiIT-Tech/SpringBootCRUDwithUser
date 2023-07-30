@@ -19,7 +19,7 @@ import com.miit.user.repo.UserRepository;
 import com.miit.user.services.UserServices;
 
 /**
- * @author  -Tech MiIT
+ * @author  -MiIT Tech 
  *
  */
 @SpringBootTest
