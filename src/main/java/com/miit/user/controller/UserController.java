@@ -22,7 +22,7 @@ import com.miit.user.services.UserServices;
  *
  */
 @RestController
-@RequestMapping("/user")
+@RequestMapping("/userDetails")
 public class UserController {
 
 	@Autowired
