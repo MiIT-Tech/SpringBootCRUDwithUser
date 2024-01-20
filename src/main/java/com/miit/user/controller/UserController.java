@@ -35,7 +35,7 @@ public class UserController {
 
 	@GetMapping("/{id}")
 	public User getByID(@PathVariable(required = true) long id) {
-
+//		Get Id from DB via Cache
 		return userService.getUserById(id);
 	}
 
